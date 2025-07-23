@@ -1,0 +1,4 @@
+h1{background-color: grey;}
+body{ color: aliceblue;background-color:black;}
+img{border-radius: 10px;box-shadow: 2px 2px 8px;object-fit: cover;transition:0.3s ease;}
+h2{background-color: rgba(128, 128, 128, 0.543);}
